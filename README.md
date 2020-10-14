@@ -2,4 +2,4 @@
 
 > Set default PostgreSQL database connection environment variables from the Heroku DATABASE_URL env var
 
-### [To the code (`index.js`)](./index.js)
+### [To the code (`setPostgresDefaultsOnHeroku.js`)](./setPostgresDefaultsOnHeroku.js)
